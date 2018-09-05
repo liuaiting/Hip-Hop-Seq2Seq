@@ -131,3 +131,14 @@ bash server.sh
 -  Ilya Sutskever, Oriol Vinyals, and Quoc
    V. Le. 2014.[ Sequence to sequence learning with neural networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf). NIPS.
 
+
+##  News
+
+[Homie快来听，AI的嘻哈也很酷 | DeeCamp Show](https://mp.weixin.qq.com/s/AmPVQRoNNKxyN98JXmJ8zA)
+
+[填词作曲斗图搞艺术，AI统统都可以](https://mp.weixin.qq.com/s/tWJSQlB3f7sLtZhzhXVoMA)
+
+[2分钟写出一首嘻哈歌曲：95后AI创新团队叫板“中国新说唱”](https://m.mp.oeeee.com/a/BAAFRD00002018082498426.html?&layer=2&share=chat&isndappinstalled=0&ndsign=fynIrURHAqytWQpdnHXOhvmMb4+dNXbHfAPMojUNgOIPI2VW2OW1w/MFRfIXNmGMk9jhqq3jWdvdX96DRTkZZ0VOeJ7QbGVX36X362MaVlKvFDViH1sfteRiN67VhX7F39H6/KlPd8jEmuhmdYaJ72NlMjQzYTAwY2M3ZWEyZjVjYWJkNTk0MzA4NTMyOWEzYU0m+hfgGYZho4YTUdzk3Q==827c9c8481416215ca20b9a12205f0af&wxuid=ogVRcdFchB7Q13PYm58c3stf9aIY&wxsalt=f0e39f&wxOauth=1)
+
+
+
