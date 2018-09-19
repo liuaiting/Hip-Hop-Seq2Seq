@@ -140,5 +140,7 @@ bash server.sh
 
 [2分钟写出一首嘻哈歌曲：95后AI创新团队叫板“中国新说唱”](https://m.mp.oeeee.com/a/BAAFRD00002018082498426.html?&layer=2&share=chat&isndappinstalled=0&ndsign=fynIrURHAqytWQpdnHXOhvmMb4+dNXbHfAPMojUNgOIPI2VW2OW1w/MFRfIXNmGMk9jhqq3jWdvdX96DRTkZZ0VOeJ7QbGVX36X362MaVlKvFDViH1sfteRiN67VhX7F39H6/KlPd8jEmuhmdYaJ72NlMjQzYTAwY2M3ZWEyZjVjYWJkNTk0MzA4NTMyOWEzYU0m+hfgGYZho4YTUdzk3Q==827c9c8481416215ca20b9a12205f0af&wxuid=ogVRcdFchB7Q13PYm58c3stf9aIY&wxsalt=f0e39f&wxOauth=1)
 
+## Demo
 
+视频展示：[YouTube](https://www.youtube.com/watch?v=svuSKZBIePE)
 
